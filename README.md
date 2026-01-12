@@ -17,8 +17,13 @@ The system includes:
 - Docker
 - Docker Compose
 
+Frontend UI: http://localhost:8000
+
+Backend API: http://localhost:5000
+
 ### Run locally
 ```bash
-git clone https://github.com/yourname/Fake-News-Finder
+git clone https://github.com/yourname/Fake-News-Finder.git
 cd Fake-News-Finder
 docker compose up --build
+
