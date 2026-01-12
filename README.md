@@ -24,6 +24,6 @@ Backend API: http://localhost:5000
 ### Run locally
 ```bash
 git clone https://github.com/yourname/Fake-News-Finder.git
-cd Fake-News-Finder
+cd Fake-News-Finder/Fake-News-Docker
 docker compose up --build
 
