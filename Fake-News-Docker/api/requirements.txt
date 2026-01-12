@@ -1,0 +1,5 @@
+flask
+flask-cors
+setfit
+torch
+sentence-transformers
